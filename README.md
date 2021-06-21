@@ -1,7 +1,7 @@
-# To__get_Starting_character
+# To_get_Starting_character
 It gives all the starting character of the words in the given paragraph
 
-##sample output 1
+## sample output 1
 enter the starting character to get from string:a
 an
 as
@@ -12,7 +12,7 @@ and
 assume
 7 words are found with starting character a
 
-##Sample output 2
+## Sample output 2
 enter the starting character to get from string:c
 code
 constructs
